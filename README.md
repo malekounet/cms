@@ -1,1 +1,12 @@
 # cms
+Vu l’augmentation de la demande sur la création des portfolios et les pages web simple qui ont pour but de présenter une personnalité ou un travail d’une manière simple et élégante, j’ai décidé de donner vie à une application web qui a pour but de faire la gestion du contenu de son site, aussi appelé CMS (content management system) (portfolio …).
+
+Cette application va se focaliser dans un premier temps sur l’offre des Template de portfolio prêt à utilisées par les internautes, elle va donner aux utilisateurs un tas choix.
+
+Un utilisateur doit s’inscrire et se connecter avant qu’il puisse profiter de l’application.
+Un utilisateur peut créer un ou plusieurs portfolios.
+L’utilisateur peut choisir parmi les Template offertes, aussi il aura la possibilité de faire des modifications de couleurs, d’images, et de taille et de texte.
+L’utilisateur aura accès à une page admin de son portfolio dans laquelle il pourra toujours faire des modifications de texte, d’image, etc…
+
+
+

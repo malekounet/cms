@@ -11,3 +11,5 @@ Cette <em>application</em> va se focaliser dans un premier temps sur l’offre d
             <li>L’utilisateur aura accès à une page admin de son portfolio dans laquelle il pourra toujours faire des modifications de texte, d’image, etc…</li>
 </ul>
 
+<strong>à continuer ...</strong>
+
